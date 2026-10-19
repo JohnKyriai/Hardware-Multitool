@@ -77,6 +77,3 @@ echo bye bye
 exit
 
 pause
-
-
-
